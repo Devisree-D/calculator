@@ -1,0 +1,41 @@
+.p1{width: 500px;
+    height: 500px;
+    margin-top:5% ;
+    background-color: black;
+    border-style: solid;
+    border-color: black;
+}
+.p2{
+    background-color: rgb(201, 201, 201);
+      padding: 15px;
+      margin-top: 3%;
+      width: 471px;
+      text-align: right;
+      font-size: 27px;
+      border-top-left-radius:10px;
+      border-top-right-radius:10px;
+    
+}
+.btn{margin: 5px;
+    padding: 10px;
+      width: 105px;
+      height: 60px;
+      margin-top: 10px;
+      color:black;
+      font-size: 30px;
+}
+.bt1{
+    background-color: red;
+    border-style: solid;
+}
+.bt2{
+    background-color: gray;
+    border-style: solid;
+}
+.bt3{margin: 5px;
+    padding: 10px;
+      width: 105px;
+    height: 70px;
+    background-color: skyblue;
+    border-style: solid;
+}
